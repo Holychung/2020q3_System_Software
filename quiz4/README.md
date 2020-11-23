@@ -1,4 +1,4 @@
-# 2020q3 Homework3 (quiz3)
+# 2020q3 Homework4 (quiz4)
 
 [2020q3 第 4 週測驗題](https://hackmd.io/@sysprog/2020-quiz4)
 
