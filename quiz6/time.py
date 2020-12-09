@@ -32,6 +32,6 @@ plt.xscale('linear')
 plt.yscale('linear')
 plt.legend()
 plt.ylabel('ns')
-plt.xlabel('round')
+plt.ylabel('round')
 
 plt.savefig('time.png')
