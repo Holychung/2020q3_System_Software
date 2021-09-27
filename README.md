@@ -9,7 +9,7 @@
     - [開發紀錄 (quiz2)](https://hackmd.io/@Holy/2020q3_Homework2_quiz2) 
 - 作業三
     * [開發紀錄 (quiz3)](https://hackmd.io/@Holy/2020q3_Homework3_quiz3) / [Github](https://github.com/Holychung/2020q3_System_Software/tree/main/quiz3) 
-    * [開發記錄 (dict)](https://hackmd.io/@Holy/2020q3_Homework3_dict)
+    * [開發記錄 (dict)](https://hackmd.io/@Holy/2020q3_Homework3_dict) / [Github](https://github.com/Holychung/dict)
 - 作業四
     - [開發紀錄 (quiz4)](https://hackmd.io/@Holy/2020q3_Homework4_quiz4) / [Github](https://github.com/Holychung/2020q3_System_Software/tree/main/quiz4)
 - 作業五
